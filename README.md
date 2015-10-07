@@ -63,10 +63,10 @@ That is why we are using this strategy.
 
 - [Introduction](#introduction)
 - [Program Design](#program-design)
+- [Algorithms](#algorithms)
 - [Programming Paradigms](#programming-paradigms)
 - [Software Testing](#software-testing)
 - [Math](#math)
-- [Algorithms](#algorithms)
 - [Software Architecture](#software-architecture)
 - [Software Engineering](#software-engineering)
 - [Operating Systems](#operating-systems)
@@ -100,11 +100,20 @@ Course|Duration
 [Systematic Program Design- Part 2: Arbitrary Sized Data](https://www.edx.org/course/systematic-program-design-part-2-ubcx-spd2x)| 5 weeks
 [Systematic Program Design- Part 3: Abstraction, Search and Graphs](https://www.edx.org/course/systematic-program-design-part-3-ubcx-spd3x)| 5 weeks
 
+### Algorithms
+
+Course|Duration
+:--|:--:
+[Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks
+[Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks
+[Analysis of Algorithms](https://www.coursera.org/course/aofa)| 6 weeks
+
 ### Programming Paradigms
 
 Course|Duration
 :--|:--:
 [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0#ct-read-review-widget)| 7 weeks
+[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks
 [Principles of Reactive Programming](https://www.coursera.org/course/reactive)| 7 weeks
 [Programming Languages](https://www.coursera.org/course/proglang)| 8-16 hours/week
 [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)| 7 weeks
@@ -126,14 +135,6 @@ Course|Duration
 [Linear and Discrete Optimization](https://www.coursera.org/course/linearopt)| 3-6 hours/week
 [Probabilistic Graphical Models](https://www.coursera.org/course/pgm)| 11 weeks
 [Game Theory](https://www.coursera.org/course/gametheory)| 9 weeks
-
-### Algorithms
-
-Course|Duration
-:--|:--:
-[Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks
-[Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks
-[Analysis of Algorithms](https://www.coursera.org/course/aofa)| 6 weeks
 
 ### Software Architecture
 
@@ -252,11 +253,17 @@ The courses are **already** in the order that you should complete them. Just sta
 
 It may take longer to complete all of the classes compared to a  regular CS course, but I can **guarantee** you that your **reward** will be proportional to **your motivation/dedication**!
 
-### How can I track my progress?
+### How can I track/show my progress?
 
-You should create a repository on GitHub to put all of the files that you created for each course.
+To **track** your progress, you should update the profile that you created [here](https://github.com/open-source-society/computer-science/issues/31), adding the courses that you began or ended.
+
+To **show** your progress, you should create a repository on GitHub to put all of the files that you created for each course.
 
 You can create one repository per course, or just one repository that will contain all of the files for each course. The first option is our preferred approach.
+
+**ps**: You should share **only** files that you are **allowed** to! **Do NOT disrespect the code of conduct** that you signed in the beginning of some courses.
+
+[Be creative](#be-creative) in order to show your progress! :smile:
 
 ### Cooperative work
 
